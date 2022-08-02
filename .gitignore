@@ -1,0 +1,5 @@
+*.mod
+*.sum
+*.json
+*.DS_Store
+.env
